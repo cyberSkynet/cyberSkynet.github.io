@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.content {
+    color: #444444;
+}
+.show-result {
+    font-weight: bold;
+}
